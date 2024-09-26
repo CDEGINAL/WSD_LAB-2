@@ -7,7 +7,7 @@
         <title>Chandrashekhar Deginal</title>
        <h1>It's My Birthday!</h1>
         <h2>on the 12th April</h2>
-        <img src="/Users/chandrashekhardeginal/Downloads/bg.jpg" alt="10-10">
+        <img src="bg.jpg" alt="10-10">
     </head>
     <body>
         <h2>What to bring:</h2>
